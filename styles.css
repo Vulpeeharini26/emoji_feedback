@@ -1,0 +1,38 @@
+.Container{
+    background-color: yellow;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-container{
+    background-color: white;
+    height: 300px;
+    width: 400px;
+    box-shadow: inset;
+    border-radius: 15px;
+    text-align: center;
+}
+.heading{
+    color:aqua;
+    font-family: "Roboto";
+    
+}
+.star-container{
+    display: flex;
+    direction: row;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+.star{
+    margin: 5px;
+    font-size:30px;
+    color:yellow;
+    
+}
+.img{
+    height: 60px;
+
+}
